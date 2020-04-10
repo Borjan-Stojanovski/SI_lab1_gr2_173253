@@ -10,9 +10,11 @@ class Student {
 
 	public double getAverage() {
 		//TODO
+		get_average;
 	}
 
 	public int ECTSCredits() {
 		//TODO
+		ectscredits;
 	}
 }
